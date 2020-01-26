@@ -61,7 +61,10 @@ declare -a extensions=(
   "xlsm"
 )
 
-rm -f extensions.txt extensions-wth-dot.txt extensions.json extensions-with-dot.json
+rm -f extensions.txt
+rm -f extensions-with-dot.txt
+rm -f extensions.json
+rm -f extensions-with-dot.json
 
 for ext in "${extensions[@]}"
 do

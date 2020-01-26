@@ -3,10 +3,10 @@ Lists of potentially dangerous file extensions you might not want to download or
 
 ## Available formats
 
-[Text file with one EXT per line](extenstions.txt)
-[Text file with one .EXT per line](extensions-with-dot.txt)
-[JSON array with EXT](extensions.json)
-[JSON array with .EXT](extensions-with-dot.json)
+* [Text file with one EXT per line](extenstions.txt)
+* [Text file with one .EXT per line](extensions-with-dot.txt)
+* [JSON array with EXT](extensions.json)
+* [JSON array with .EXT](extensions-with-dot.json)
 
 ## Contributing
 
